@@ -11,7 +11,7 @@
 ### 🧠 About
 
 - 🏢 **CEO @ [REVERBS](https://reverbs.com.br)** — e-commerce, SEO and AI-driven growth
-- 🤖 Building **Hermes** — a multi-agent AI control plane, swarm orchestration and autonomous dev workflows
+- 🤖 Building **multi-agent AI orchestration** — swarm runtimes, governed dev workflows, autonomous coding pipelines
 - 🛒 Deep in the e-commerce stack: storefronts, edge infra, catalog pipelines, virtual try-on
 - 📍 São Paulo, Brazil
 
@@ -30,12 +30,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luchasarie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=39d353&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luchasarie&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&langs_count=8"/>
+  <img height="180em" src="https://grs-production-480a.up.railway.app/api?username=luchasarie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=39d353&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://grs-production-480a.up.railway.app/api/top-langs/?username=luchasarie&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&langs_count=8&count_private=true"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=luchasarie&theme=tokyonight&hide_border=true&background=0d1117&ring=6e40c9&fire=39d353&currStreakLabel=39d353"/>
+  <img src="https://streak-production-aed4.up.railway.app?user=luchasarie&theme=tokyonight&hide_border=true&background=0d1117&ring=6e40c9&fire=39d353&currStreakLabel=39d353"/>
 </div>
 
 <div align="center">
